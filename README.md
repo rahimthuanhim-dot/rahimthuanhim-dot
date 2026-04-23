@@ -14,7 +14,7 @@ I'm a detail-oriented developer and innovator who thrives on solving complex pro
 
 <div align="center">
   
-  **[GitHub](https://github.com/rahimthuanhim-dot) • [LinkedIn](https://linkedin.com) • [Portfolio](https://portfolio.com)**
+  **[GitHub](https://github.com/rahimthuanhim-dot) • [LinkedIn](https://www.linkedin.com/in/rahimthuan-phaomei-b3007a379/) • [Portfolio](https://portfolio.com)**
 
 </div>
 
@@ -57,7 +57,7 @@ I'm a detail-oriented developer and innovator who thrives on solving complex pro
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| [Project Name](#) | Brief description of your project | React, Node.js, MongoDB |
+| [Fuel Adulteration Detection Device](#) | A fuel adulteration detection device is designed to identify whether a fuel (like petrol or diesel) has been mixed with cheaper substances (like kerosene or naphtha). These devices rely on the fact that every fuel has a specific "fingerprint" based on its physical and chemical properties. | Proteus, Arduino IDE |
 | [Project Name](#) | Brief description of your project | Python, TensorFlow |
 | [Project Name](#) | Brief description of your project | JavaScript, APIs |
 
@@ -83,10 +83,10 @@ I'm a detail-oriented developer and innovator who thrives on solving complex pro
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rahimthuan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rahimthuanphaomei/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahimthuan-phaomei-b3007a379/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahimthuanhim-dot)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rahimthuanhim@gmail.com)
 
 </div>
 
@@ -96,6 +96,6 @@ I'm a detail-oriented developer and innovator who thrives on solving complex pro
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahimthuanhim-Dot&style=for-the-badge&color=0d7fb9)
 
-**Made with ❤️ by Rahim Thuan**
+**Made with ❤️ by Rahimthuan Phaomei**
 
 </div>
