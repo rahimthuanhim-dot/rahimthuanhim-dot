@@ -14,7 +14,7 @@ I'm a detail-oriented developer and innovator who thrives on solving complex pro
 
 <div align="center">
   
-  **[GitHub](https://github.com/rahimthuanhim-dot) • [LinkedIn](https://www.linkedin.com/in/rahimthuan-phaomei-b3007a379/) • [Portfolio](https://portfolio.com)**
+  **[GitHub](https://github.com/rahimthuanhim-dot) • [LinkedIn](https://www.linkedin.com/in/rahimthuan-phaomei-b3007a379/) • [Portfolio]()**
 
 </div>
 
@@ -96,6 +96,6 @@ I'm a detail-oriented developer and innovator who thrives on solving complex pro
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahimthuanhim-Dot&style=for-the-badge&color=0d7fb9)
 
-**Made with ❤️ by Rahimthuan Phaomei**
+**Made with LOVE❤️ by Rahimthuan Phaomei**
 
 </div>
